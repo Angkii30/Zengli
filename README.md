@@ -49,8 +49,8 @@ index.html
       <h2>ประวัติย่อ</h2>
       <p><strong>ชื่อ:</strong> 曾黎 (Zengli)</p>
       <p><strong>วันเกิด:</strong> 19 กันยายน 1976</p>
-    </section>
-  <img src="zengli.jpeg" alt="Zengli" class="profile-photo">
+      
+  <img src="IMG_7800.jpeg" alt="Zengli" class="profile-photo">
 </section>
     <section id="works">
       <h2>ผลงานหลัก</h2>
