@@ -50,7 +50,23 @@ index.html
       <p><strong>ชื่อ:</strong> 曾黎 (Zengli)</p>
       <p><strong>วันเกิด:</strong> 19 กันยายน 1976</p>
     </section>
-
+<section id="about">
+  <h2>ประวัติย่อ</h2>
+  <p><strong>ชื่อ:</strong> 曾黎 (Zengli)</p>
+  <p><strong>วันเกิด:</strong> 19 กันยายน 1976</p>
+  <img src="zengli.jpeg" alt="Zengli" class="profile-photo">
+</section><section id="about">
+  <h2>ประวัติย่อ</h2>
+  <p><strong>ชื่อ:</strong> 曾黎 (Zengli)</p>
+  <p><strong>วันเกิด:</strong> 19 กันยายน 1976</p>
+  <img src="zengli.jpeg" alt="Zengli" class="profile-photo">
+</section>
+    <section id="about">
+  <h2>ประวัติย่อ</h2>
+  <p><strong>ชื่อ:</strong> 曾黎 (Zengli)</p>
+  <p><strong>วันเกิด:</strong> 19 กันยายน 1976</p>
+  <img src="zengli.jpeg" alt="Zengli" class="profile-photo">
+</section>
     <section id="works">
       <h2>ผลงานหลัก</h2>
       <ul>
