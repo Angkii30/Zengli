@@ -46,9 +46,9 @@ index.html
 
   <main>
     <section id="about">
-      <h2>ประวัติย่อ</h2>
-      <p><strong>ชื่อ:</strong> 曾黎 (Zengli)</p>
-      <p><strong>วันเกิด:</strong> 19 September 1976</p>
+      <h2>Personal</h2>
+      <p><strong>Name:</strong> 曾黎 (Zengli)</p>
+      <p><strong>Birthday🎂:</strong> 19 September 1976</p>
       
   <img src="IMG_7800.jpeg" alt="Zengli" class="profile-photo">
 </section>
