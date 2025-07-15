@@ -35,13 +35,13 @@ index.html
 <body>
   <header>
     <h1>Zengli (曾黎)</h1>
-    <p class="subtitle">เว็บไซต์แฟนคลับส่วนตัว 💜</p>
+    <p class="subtitle">เว็บไซต์แฟนคลับส่วนตัว 🪭</p>
   </header>
 
   <nav>
-    <a href="#about">ประวัติ</a>
-    <a href="#works">ผลงาน</a>
-    <a href="#music">เพลง</a>
+    <a href="#about">Personal history</a>
+    <a href="#works">Work</a>
+    <a href="#music">Music</a>
   </nav>
 
   <main>
@@ -68,8 +68,17 @@ index.html
   </main>
 
   <footer>
-    <p>เว็บไซต์สร้างด้วยความรัก 💖 โดยแฟนคลับ</p>
-  </footer>
+    <p>เว็บไซต์สร้างด้วยความรัก 🍐 โดยแฟนคลับ</p>
+  <footer>
+  <hr>
+  <h3>ช่องทางการติดต่อ</h3>
+  <p>
+    🍀 Weibo: <a href="https://weibo.com/u/1195238435">your.email@example.com</a><br>
+    🍁 Xhs : <a href="https://www.xiaohongshu.com/user/profile/54830affe779891840b65e86?xsec_token=YB5F9pUkh-uVp-b0xLB3pa8LJEeRs6HCy6ukGldoFPb-A=&xsec_source=app_share&xhsshare=CopyLink&appuid=62d67a68000000000e00ceaf&apptime=1752607971&share_id=ce061207b45849ff904241e07c1b037a" target="_blank">facebook.com/yourprofile</a><br>
+    🌷 Instagram: <a href="https://www.instagram.com/zengli_0917?igsh=MXV3YzJ3a2czb3IzbQ==" target="_blank">@yourprofile</a><br>
+  </p>
+</footer>
+  
 </body>
 </html>
 
