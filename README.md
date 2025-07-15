@@ -73,9 +73,9 @@ index.html
   <hr>
   <h3>ช่องทางการติดต่อ</h3>
   <p>
-    🍀 Weibo: <a href="https://weibo.com/u/1195238435">your.email@example.com</a><br>
-    🍁 Xhs : <a href="https://www.xiaohongshu.com/user/profile/54830affe779891840b65e86?xsec_token=YB5F9pUkh-uVp-b0xLB3pa8LJEeRs6HCy6ukGldoFPb-A=&xsec_source=app_share&xhsshare=CopyLink&appuid=62d67a68000000000e00ceaf&apptime=1752607971&share_id=ce061207b45849ff904241e07c1b037a" target="_blank">facebook.com/yourprofile</a><br>
-    🌷 Instagram: <a href="https://www.instagram.com/zengli_0917?igsh=MXV3YzJ3a2czb3IzbQ==" target="_blank">@yourprofile</a><br>
+    🍀 Weibo: <a href="https://weibo.com/u/1195238435">Zengli.Weibo</a><br>
+    🍁 Xhs : <a href="https://www.xiaohongshu.com/user/profile/54830affe779891840b65e86?xsec_token=YB5F9pUkh-uVp-b0xLB3pa8LJEeRs6HCy6ukGldoFPb-A=&xsec_source=app_share&xhsshare=CopyLink&appuid=62d67a68000000000e00ceaf&apptime=1752607971&share_id=ce061207b45849ff904241e07c1b037a" target="_blank">Zengli.Xhs</a><br>
+    🌷 Instagram: <a href="https://www.instagram.com/zengli_0917?igsh=MXV3YzJ3a2czb3IzbQ==" target="_blank">Zengli.instagram </a><br>
   </p>
 </footer>
   
