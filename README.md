@@ -58,7 +58,6 @@ index.html
         <li><strong>ดาราจักรรักลำนำใจ</strong> (ปี 2565)</li>
       </ul>
     </section>
-
     <section id="music">
       <h2>เพลง</h2>
       <p>🎧 <a href="https://open.spotify.com/track/2fNgiDkcZD4quMyILPdYxc?si=A5WqImH9RR6t2m9ryWwcsg" target="_blank">
@@ -66,7 +65,6 @@ index.html
       </a></p>
     </section>
   </main>
-
   <footer>
   <hr>
   <h3>⭐️Tracking channels</h3>
