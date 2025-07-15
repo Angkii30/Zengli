@@ -58,13 +58,13 @@ index.html
         <li><strong>ดาราจักรรักลำนำใจ</strong> (ปี 2565)</li>
       </ul>
     </section>
-<section id="music">
-  <h2>เพลง</h2>
-  <img src="https://i.scdn.co/image/ab67616d0000b2730d146205cab1b7275a0b78f4"
-       alt="เพลงพี่เจิง" width="200" style="border-radius: 12px;">
-  <p>
-    🎧 <a href="https://open.spotify.com/track/2fNgiDkcZD4quMyILPdYxc" target="_blank">
-      กดฟังบน Spotify 💚
+<section id="music" style="background:#e6f2f1; padding:20px; border-radius:12px; width:90%; max-width:500px; margin:20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h2 style="color:#2a5d58; font-family: 'Tahoma', sans-serif;">เพลง</h2>
+  <img src="https://i.scdn.co/image/ab67616d0000b2730d146205cab1b7275a0b78f4" alt="เพลงพี่เจิง" style="width:100%; max-width:300px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom:15px;">
+  <p style="font-size:1.2em; color:#38571a; font-weight:600;">
+    🎧 ฟังเพลงของพี่เจิงบน  
+    <a href="https://open.spotify.com/track/2fNgiDkcZD4quMyILPdYxc" target="_blank" style="color:#1db954; text-decoration:none; font-weight:bold;">
+      Spotify 💚
     </a>
   </p>
 </section>
